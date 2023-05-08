@@ -9,7 +9,9 @@ DEBUG = True  # set to True to enable useful console output
 #ROOT_URLS = ["https:///digg.com/"]
 
 ROOT_URLS = [
-"https://getcash9987.blogspot.com/2023/05/thai-to-image-with-runwayml-ai-async.html",
+"https://getcash9987.blogspot.com/2023/05/blog-post_8.html",
+"https://getcash9987.blogspot.com/2023/05/blog-post.html",
+"https://getcash9987.blogspot.com/2023/05/thai-to-image-with-runwayml-ai-async.html,
 
 ]
 # items can be a URL "https://t.co" or simple string to check for "amazon"
